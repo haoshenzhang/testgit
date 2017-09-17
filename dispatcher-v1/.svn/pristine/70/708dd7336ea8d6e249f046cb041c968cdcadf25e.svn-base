@@ -1,0 +1,3 @@
+[pytest]
+norecursedirs = docs app logs migrations
+addopts = --strict --random -vvl
